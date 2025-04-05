@@ -1,6 +1,4 @@
-Absolutely — here’s a full **`README.md`** draft that captures your entire setup and troubleshooting journey for LaTeX on macOS using **BasicTeX** and **VS Code (2022)**.
 
----
 
 ### ✅ Markdown: `README.md`
 
